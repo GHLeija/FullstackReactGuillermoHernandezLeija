@@ -3,7 +3,7 @@
 #Creando una lista
 #nombres = ["Paola", "Carlos", "Mario", "Israel", "Manuel", "Luis", "Guillermo"]
 
-# Accediendo y pintando un elemento con x posicion de la lista
+# Accediendo a una posición o un elemento de la lista
 #print(nombres[1])
 
 # Cambiando un elemento con x posicion en la lista
